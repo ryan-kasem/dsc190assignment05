@@ -1,9 +1,6 @@
-import os
-import sys
-import json
+def main():
+    print("Hello from dsc190assignment05!")
 
-x=1+2
-y = [1,2,3]
 
-def foo(a,b,c):
-    return a+b+c
+if __name__ == "__main__":
+    main()
